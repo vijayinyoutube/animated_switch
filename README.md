@@ -29,7 +29,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-Themes | OFF | ON |
+Switch | OFF | ON |
 --- | --- | --- |
 Images | <img src="https://user-images.githubusercontent.com/58719230/102581879-73f68d80-4127-11eb-8ffc-a0476f9fabdd.png" > | <img src="https://user-images.githubusercontent.com/58719230/102581904-7fe24f80-4127-11eb-8491-8f9e2e5e18f2.png"> |
 
